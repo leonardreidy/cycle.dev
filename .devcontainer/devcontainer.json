@@ -16,7 +16,8 @@
             "dbaeumer.vscode-eslint",
             "EditorConfig.EditorConfig",
             "khan.two-monokai",
-            "mads-hartmann.bash-ide-vscode"
+            "mads-hartmann.bash-ide-vscode",
+            "adamcowley.neo4j-vscode"
           ]
       }
   }
